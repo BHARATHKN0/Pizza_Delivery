@@ -1,3 +1,10 @@
+- Food Ordering System which as Client and Admin page 
+where admin can manage all the Menu, Order status and 
+Payment history and client can order and make payment, are 
+the functionality, and React.js, Next.js and Sanity are used.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
